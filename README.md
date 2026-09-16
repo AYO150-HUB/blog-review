@@ -56,12 +56,10 @@ To see how you can add code snippets, see below:
     box-shadow: 8px 8px 0px #000000;
     
 }
-
+```
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ayooluwa](https://www.your-site.com)
+- Frontend Mentor - [@AYO150-HUB](https://www.frontendmentor.io/profile/AYO150-HUB)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
